@@ -2,7 +2,7 @@
 
 I'm a young dev studying System Development/Sou um desenvolvedor novato estudando Desenvolvimento de Sistemas
 
-###Linguagens que sei usar e estou aprendendo/Languages I can use and learning
+### Linguagens que sei usar e estou aprendendo/Languages I can use and learning
 <!--
 **Tsuki-0/Tsuki-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
