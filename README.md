@@ -1,6 +1,8 @@
 ## Bem vindo(a) a minha página/Welcome to my page
 
-Sou um jovem desenvolvedor estudando Desenvolvimento de Sistemas/I am a young dev studying System Development
+Sou um jovem desenvolvedor estudando Desenvolvimento de Sistemas/
+
+I am a young dev studying System Development
 ## Tecnologias que sei usar/Technologies I can use
 <br>
 
