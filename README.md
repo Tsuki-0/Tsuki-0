@@ -18,8 +18,7 @@ I am a musicinan and composer, I use Bandlab studio for music creation
 Eu também tenho habilidade para tradução e adaptação de textos do inglês para o português ou vice-versa/
 
 
-I can also do translations and adaptions of english to portuguese or portuguese to english
-
+I can also do translations and adaptions of english to portuguese or vice versa
 
 ## Contato/Contact:
 Para me contatar mande um e-mail para o endereço no meu perfil/To contact me, send me an e-mail to the address in my profile
