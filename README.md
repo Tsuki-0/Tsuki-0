@@ -8,7 +8,9 @@ Sou um jovem desenvolvedor estudando Desenvolvimento de Sistemas/I am a young de
 <br>
 
 ## Composição e música/Composition and music
-Sou também músico e compositor, uso para criação musical o estúdio BandLab/I am a musicinan and composer, I use Bandlab studio for music creation
+Sou também músico e compositor, uso para criação musical o estúdio BandLab/
+
+I am a musicinan and composer, I use Bandlab studio for music creation
 
 ## Traduções/Translations
 Eu também tenho habilidade para tradução e adaptação de textos do inglês para o português ou vice-versa/
