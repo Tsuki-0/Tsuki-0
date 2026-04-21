@@ -22,7 +22,7 @@ I can also do translations and adaptions of english to portuguese or portuguese 
 
 
 ## Contato/Contact:
-Para me contatar mande um e-mail para o endereço no meu perfil/To contact me send a e-mail to the address in my profile
+Para me contatar mande um e-mail para o endereço no meu perfil/To contact me, send me an e-mail to the address in my profile
 <!--
 **Tsuki-0/Tsuki-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
