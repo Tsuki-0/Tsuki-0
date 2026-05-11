@@ -6,7 +6,7 @@ I am a young dev studying System Development
 ## Tecnologias que sei usar/Technologies I can use
 <br>
 
-![Technologies](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,css,js,bootstrap,html,php,renpy,vscode,visualstudio,ps)
+![Technologies](https://go-skill-icons.vercel.app/api/icons?i=cs,cpp,css,js,bootstrap,html,php,renpy,vscode,visualstudio,react,ps)
 <br>
 
 ## Composição e música/Composition and music
