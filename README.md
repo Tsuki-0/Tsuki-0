@@ -12,7 +12,7 @@ I am a young dev studying System Development
 ## Composição e música/Composition and music
 Sou também músico e compositor, uso para criação musical o estúdio BandLab/
 
-I am a musicinan and composer, I use Bandlab studio for music creation
+I am a musician and composer, I use Bandlab studio for music creation
 
 ## Traduções/Translations
 Eu também tenho habilidade para tradução e adaptação de textos do inglês para o português ou vice-versa/
